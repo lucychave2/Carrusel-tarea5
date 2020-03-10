@@ -1,0 +1,11 @@
+@charset "utf-8";
+#menufijo {
+	background-color: #8DFFBA;
+	height: 111px;
+	width: 399px;
+	position: fixed;
+	z-index: 100;
+	margin-left: 39%;
+	margin-top: -9%;
+	padding-bottom: 0%;
+}
